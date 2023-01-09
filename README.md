@@ -29,3 +29,7 @@ it takes a single argument as an expression and prints out the integer result af
   
 
 For full description please visit: https://gist.github.com/rraval/2ef5e2ff228e022653db2055fc12ea9d
+******************************************************************
+Sample Run:
+
+![SampleRun](https://user-images.githubusercontent.com/89539144/211266684-d220ef73-ddd8-4a1b-8e56-ca16675f2afe.png)
